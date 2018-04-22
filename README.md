@@ -24,6 +24,9 @@ Features not supported:
 - signing transactions
 - managing storage (neither in node.js or the browser)
 
+## Installation
+* `npm install etherium-wallet-browser`
+
 ## Wallet API
 
 Constructors:
@@ -59,7 +62,7 @@ Note: `getPublicKey()` only returns uncompressed Ethereum-style public keys.
 
 Importing various third party wallets is possible through the `thirdparty` submodule:
 
-`var thirdparty = require('ethereumjs-wallet/thirdparty')`
+`var thirdparty = require('ethereumjs-wallet-browser/thirdparty')`
 
 Constructors:
 
