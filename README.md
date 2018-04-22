@@ -1,4 +1,5 @@
-# ethereumjs-wallet
+# ethereumjs-wallet-browser
+This module is an exact replica of the fork. The only change is we are using crypto-browserfy instead of crypto
 
 [![NPM Package](https://img.shields.io/npm/v/ethereumjs-wallet.svg?style=flat-square)](https://www.npmjs.org/package/ethereumjs-wallet)
 [![Build Status](https://travis-ci.org/ethereumjs/ethereumjs-wallet.svg?branch=master)](https://travis-ci.org/ethereumjs/ethereumjs-wallet)
