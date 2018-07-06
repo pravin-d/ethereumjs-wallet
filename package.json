@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethereumjs/ethereumjs-wallet-browser.git"
+    "url": "https://github.com/pravin-d/ethereumjs-wallet-browser.git"
   },
   "keywords": [
     "ethereum",
